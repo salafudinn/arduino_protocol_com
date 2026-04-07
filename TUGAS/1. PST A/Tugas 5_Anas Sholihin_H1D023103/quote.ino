@@ -15,7 +15,7 @@ String buatPadding(int panjang) {
 }
 
 String padding;
-String quote = "Belajar Arduino itu menyenangkan!";
+String quote = "Yang terbaik masih akan datang. - (Anas)";
 String quoteHasil;
 
 int pos = 0;
