@@ -1,5 +1,4 @@
-markdown# Dokumentasi Kode LCD Scrolling — "Kata-Kata"
----
+
 ## Library & Inisialisasi LCD
 ```ino
 #include 
