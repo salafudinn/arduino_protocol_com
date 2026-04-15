@@ -1,9 +1,9 @@
 # Laporan tugas
-
-fachriel yoga wicaksono
-H1H024042
+```
+Muhammad Imam Salafudin
+H1H024067
 B
-
+```
 ## Library & Inisialisasi LCD
 
 #include <Adafruit_LiquidCrystal.h>
