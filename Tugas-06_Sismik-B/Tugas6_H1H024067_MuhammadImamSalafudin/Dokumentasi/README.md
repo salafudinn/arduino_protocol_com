@@ -3,7 +3,7 @@
 ini video nya
 
 
-<img width="971" height="383" alt="2026-04-15 20-44-47" src="https://github.com/user-attachments/assets/ae26a1c7-f15f-4f6b-80d4-4bd647780112" />
+<img width="971" height="546" alt="2026-04-15 20-44-47 (1)" src="https://github.com/user-attachments/assets/d29d85d1-4f3d-40e8-a104-530990ceb9ed" />
 
 
 ini gambar nya
